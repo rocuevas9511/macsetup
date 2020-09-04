@@ -4,3 +4,7 @@ brew cask install visual-studio-code
 brew install tldr
 brew install tmux
 brew install terraform
+brew tap clementtsang/bottom
+brew install bottom
+brew cask install bitwarden
+brew install bitwarden-cli
