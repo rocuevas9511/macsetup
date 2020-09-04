@@ -8,3 +8,7 @@ brew tap clementtsang/bottom
 brew install bottom
 brew cask install bitwarden
 brew install bitwarden-cli
+brew install bat
+brew install neofetch
+#brew cask install spectacle
+cp ./.tmux.confmac ~/.tmux.conf
